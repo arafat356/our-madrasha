@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  font-family: "Righteous", cursive;
+}
+.h1 {
+  text-align: center;
+}
+.madrasha-color {
+  color: brown;
+}
+.img-center {
+  background-image: center;
+  width: 1960px;
+}
+.text-color {
+}
+.text-costom {
+  background-size: cover;
+  color: #d6d6a7;
+}
+.dis-color {
+  color: blueviolet;
+}
+.link-facebook {
+  background-image: linear-gradient(red, pink);
+  text-decoration: none;
+  border-radius: 5%;
+  padding-right: 5%;
+  background-position: center;
+  text-align: center;
+}
+.text-box {
+  padding: 30px;
+  margin: 10px;
+}
+.img-class {
+  width: 100%;
+  background-size: contain;
+}
